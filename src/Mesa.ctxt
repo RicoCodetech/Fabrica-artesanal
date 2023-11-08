@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Mesa
+comment0.text=\r\n\ Clase\ abstracta\ que\ define\ las\ caracteristica\ generales\ de\ una\ mesa.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=idCliente\ alturaCm\ largoCm\ anchoCm\ cantidad
+comment1.target=Mesa(int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Mesa\r\n
+comment2.params=
+comment2.target=int\ getAltura()
+comment2.text=\r\n\ Devuelve\ la\ altura\ en\ centimetros\r\n
+comment3.params=
+comment3.target=int\ getLargo()
+comment3.text=\r\n\ Devuelve\ el\ largo\ en\ centimetros\r\n
+comment4.params=
+comment4.target=int\ getAncho()
+comment4.text=\r\n\ Devuelve\ el\ ancho\ en\ centimetros\r\n
+comment5.params=
+comment5.target=java.lang.String\ getMesa()
+comment5.text=\r\n\ Devuelve\ el\ tipo\ de\ mueble\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

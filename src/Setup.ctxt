@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Setup
+comment1.params=
+comment1.target=Setup()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Setup\r\n
+comment2.params=caracter\ delay
+comment2.target=void\ retardo(java.lang.String,\ int)
+comment2.text=\r\n\ Inserta\ un\ peque\u00F1o\ retardo\ \r\n
+comment3.params=arrayPedido
+comment3.target=void\ addPedidos(java.util.ArrayList)
+comment3.text=\r\n\ Inserta\ los\ pedidos\r\n\ @param\ ArrayList<Mueble>\ \r\n
+comment4.params=arrayEmpleado
+comment4.target=void\ addEmpleados(java.util.ArrayList)
+comment4.text=\r\n\ Inserta\ los\ empleados\r\n\ @param\ ArrayList<Empleado>\ \r\n
+comment5.params=arrayCliente
+comment5.target=void\ addClientes(java.util.ArrayList)
+comment5.text=\r\n\ Inserta\ los\ clientes\ \r\n
+comment6.params=comprueba
+comment6.target=void\ addClientesComprueba(java.util.ArrayList)
+comment6.text=\r\n\ Inserta\ los\ nombres\ de\ los\ clientes\ en\ un\ array\ de\ ObterDatos\ para\r\n\ evitar\ que\ se\ pueda\ registrar\ una\ cuenta\ con\ un\ nombre\ de\ usuario\r\n\ que\ ya\ esta\ en\ uso\r\n
+comment7.params=pedido
+comment7.target=void\ organizandoPedidos(java.util.ArrayList)
+comment7.text=\r\n\ Inserta\ el\ precio\ a\ un\ pedido\ y\ lo\ deja\ pendiente\ de\ confirmacion\r\n
+numComments=8

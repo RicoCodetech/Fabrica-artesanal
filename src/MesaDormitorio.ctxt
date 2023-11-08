@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MesaDormitorio
+comment0.text=\r\n\ Mesa\ de\ dormitorio\ con\ cajones\r\n\ \r\n\ @author\ Oscar\ Rico\ Martinez\ \r\n\ @version\ 25/05/2020\r\n
+comment1.params=idCliente\ alturaCm\ largoCm\ anchoCm\ numeroCajones\ cantidad
+comment1.target=MesaDormitorio(int,\ int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MesaDormitorio\r\n
+comment2.params=numeroCajones
+comment2.target=void\ setCajones(byte)
+comment2.text=\r\n\ Define\ el\ numero\ de\ cajones\r\n
+comment3.params=
+comment3.target=int\ getCajones()
+comment3.text=\r\n\ devuelve\ el\ numero\ de\ cajones\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

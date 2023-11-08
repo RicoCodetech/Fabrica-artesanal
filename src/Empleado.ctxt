@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Empleado
+comment1.params=nombre\ sueldo
+comment1.target=Empleado(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Empleado\r\n\ @param\ nombre\ El\ nombre\ del\ empleado\r\n\ @param\ sueldo\ El\ sueldo\ del\ empleado\r\n
+comment2.params=sueldo
+comment2.target=void\ setSueldo(int)
+comment2.text=\r\n\ Establece\ el\ sueldo\ del\ empleado\r\n\ @param\ sueldo\ del\ empleado\r\n
+comment3.params=
+comment3.target=int\ getSueldo()
+comment3.text=\r\n\ Devuelve\ el\ sueldo\ del\ empleado\r\n\ @return\ sueldo\ del\ empleado\r\n
+comment4.params=puesto
+comment4.target=void\ setPuesto(java.lang.String)
+comment4.text=\r\n\ Establece\ puesto\ del\ empleado\r\n\ @param\ puesto\ del\ empleado\r\n
+comment5.params=
+comment5.target=java.lang.String\ getPuesto()
+comment5.text=\r\n\ Establece\ el\ puesto\ que\ ocupa\ el\ empleado\r\n\ @return\ puesto\ del\ empleado\r\n
+comment6.params=id
+comment6.target=void\ setId(int)
+comment6.text=\r\n\ Establece\ id\ del\ empleado\r\n\ @param\ id\ asignacion\ de\ id\r\n
+comment7.params=
+comment7.target=int\ getId()
+comment7.text=\r\n\ Devuelve\ el\ id\ del\ empleado\r\n\ @return\ id\ del\ empleado\r\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

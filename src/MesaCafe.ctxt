@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MesaCafe
+comment0.text=\r\n\ Clase\ abstracta\ que\ sirve\ para\ especificar\ el\ tipo\ de\ mesa.\r\n\ \r\n\ @author\ Oscar\ Rico\ Martinez\ \r\n\ @version\ 25/05/2020\r\n
+comment1.params=idCliente\ alturaCm\ largoCm\ anchoCm\ cantidad
+comment1.target=MesaCafe(int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MesaCafe\r\n
+comment2.params=opcionCristal
+comment2.target=void\ setOptionCristal(java.lang.String)
+comment2.text=\r\n\ Define\ si\ la\ mesa\ es\ de\ cristal\r\n
+comment3.params=
+comment3.target=java.lang.String\ getOptionCristal()
+comment3.text=\r\n\ Devuelve\ si\ la\ mesa\ contiene\ cristal\r\n
+comment4.params=
+comment4.target=java.lang.String\ getMesa()
+comment4.text=\r\n\ Devuelve\ el\ tipo\ de\ mueble\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

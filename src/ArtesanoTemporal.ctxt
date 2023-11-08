@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ArtesanoTemporal
+comment1.params=nombre\ sueldo
+comment1.target=ArtesanoTemporal(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ ArtesanoTemporal\r\n\ @param\ nombre\ Del\ Artesano\r\n\ @param\ sueldo\ Del\ Artesano\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

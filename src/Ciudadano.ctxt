@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Ciudadano
+comment0.text=\r\n\ un\ cliente\ tiene\ acceso\ a\ su\ cuenta,\ realiza\ pedidos\ de\ los\ diferentes\ muebles,\ \ acceso\ a\ los\ pedidos\ realizados,\ confirma\r\n\ el\ presupuesto\ que\ previamente\ un\ comercial\ a\ asignado,\ recibe\ mensajes\ del\ comercial\ y\ se\ define\ como\ un\ cliente\ ciudadano.\r\n\ \r\n\ @author\ Oscar\ Rico\ Martinez\ \r\n\ @version\ 19/05/2020\r\n
+comment1.params=nombre
+comment1.target=Ciudadano(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Ciudadano\r\n
+comment2.params=nombre\ totalPedidos
+comment2.target=Ciudadano(java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getTipoCuenta()
+comment3.text=\r\n\ Devuelve\ el\ tipo\ de\ cuenta\r\n\ return\ tipoCuenta\ El\ tipo\ cuenta\ ciudadano/empresa\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

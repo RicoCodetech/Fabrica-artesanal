@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Silla
+comment0.text=\r\n\ Clase\ que\ contiene\ las\ caracteristicas\ basica\ de\ una\ silla\r\n\ \r\n\ @author\ Oscar\ Rico\ Martinez\ \r\n\ @version\ 25/05/2020\r\n
+comment1.params=idCliente\ cantidad\ reposaBrazos
+comment1.target=Silla(int,\ int,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Silla\r\n
+comment2.params=tipoSilla
+comment2.target=void\ setTipoSilla(java.lang.String)
+comment2.text=\r\n\ Establece\ el\ tipo\ de\ silla\r\n
+comment3.params=
+comment3.target=java.lang.String\ getTipoSilla()
+comment3.text=\r\n\ devuelve\ el\ tipo\ de\ silla\r\n
+comment4.params=
+comment4.target=boolean\ getReposaBrazos()
+comment4.text=\r\n\ Define\ si\ tiene\ reposa\ brazos\r\n
+comment5.params=
+comment5.target=java.lang.String\ reposaBrazos()
+numComments=6

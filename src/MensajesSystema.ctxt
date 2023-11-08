@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MensajesSystema
+comment0.text=\r\n\ Proporciana\ mensajes\ que\ se\ repiten\ en\ toda\ la\ ejecucion\ del\ programa.\r\n\ \r\n\ @author\ Oscar\ Rico\r\n\ @version\ 19/05/2020\r\n
+comment1.params=
+comment1.target=java.lang.String\ registroCompleto()
+comment1.text=\r\n\ Mensaje\ que\ confirma\ el\ registro\ exitoso\ del\ cliente\ en\ el\ sistema.\r\n
+comment2.params=
+comment2.target=void\ prueba()
+comment3.params=
+comment3.target=void\ bienvenida()
+comment3.text=\r\n\ Mensaje\ que\ da\ la\ bienvenida\ al\ programa\r\n
+comment4.params=
+comment4.target=java.lang.String\ adios()
+comment4.text=\r\n\ Mensaje\ de\ cierre\ del\ programa.\r\n
+comment5.params=
+comment5.target=void\ pedidoRealizado()
+numComments=6

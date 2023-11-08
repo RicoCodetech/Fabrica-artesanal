@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LimpiarConsola
+comment0.text=\r\nPermite\ limpiar\ la\ pantalla.\r\n\ \r\n\ @author\ Internet\r\n\ \r\n
+comment1.params=
+comment1.target=LimpiarConsola()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LimpiarConsola\r\n
+comment2.params=
+comment2.target=void\ limpiarConsola()
+comment2.text=\r\n\ \r\n
+numComments=3

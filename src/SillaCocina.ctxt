@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SillaCocina
+comment0.text=\r\n\ Clase\ que\ define\ una\ silla\ de\ cocina\r\n\ \r\n\ @author\ Oscar\ Rico\ Martinez\ \r\n\ @version\ 25/05/2020\r\n
+comment1.params=idCliente\ cantidad\ reposaBrazos
+comment1.target=SillaCocina(int,\ int,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SillaCocina\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

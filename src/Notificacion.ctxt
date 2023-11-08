@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Notificacion
+comment0.text=\r\n\ Esta\ clase\ es\ la\ encargada\ de\ generar\ el\ mensaje\ que\ el\ comecial\r\n\ enviara\ a\ un\ determinado\ cliente\ para\ notificar\ el\ estado\ del\ pedido\r\n\ \r\n\ @author\ Oscar\ Rico\ Martinez\r\n\ @version\ 20/05/2020\r\n
+comment1.params=receptor\ asunto\ mensaje
+comment1.target=Notificacion(int,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Notificacion\r\n\ @param\ receptor\ El\ id\ del\ distinatario\r\n\ @param\ asunto\ El\ motivo\ del\ mensaje\r\n\ @param\ \ mensaje\ El\ texto\ explicativo\r\n
+comment2.params=
+comment2.target=int\ getReceptor()
+comment2.text=\r\n\ devuelve\ el\ id\ del\ receptor\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

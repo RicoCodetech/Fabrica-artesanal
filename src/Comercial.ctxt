@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Comercial
+comment1.params=nombre\ sueldo
+comment1.target=Comercial(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Comercial\r\n\ @param\ nombre\ Del\ Comercial\r\n\ @param\ sueldo\ Del\ Comercial\r\n
+comment2.params=arrayPedido
+comment2.target=void\ presupuesto(java.util.ArrayList)
+comment2.text=\r\n\ Define\ el\ presupuesto\ de\ todos\ los\ pedidos\ que\ no\ tienen\ precio\r\n
+comment3.params=arrayPedido
+comment3.target=void\ verPedidoCompletado(java.util.ArrayList)
+comment3.text=\r\n\ lista\ los\ pedidos\ que\ han\ sido\ actualizados\ con\ el\ estado\ Completado\r\n
+comment4.params=id\ asunto\ mensaje
+comment4.target=Notificacion\ envioMensaje(int,\ java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ Envia\ un\ mensaje\ a\ un\ cliente\r\n\ @param\ id\ Define\ el\ id\ del\ cliente\r\n\ @param\ asunto\ Del\ mensaje\r\n\ @param\ mensaje\ Para\ el\ cliente\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

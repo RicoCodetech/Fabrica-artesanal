@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MesaCafeMadera
+comment0.text=\r\n\ Esta\ clase\ tiene\ las\ caracteristicas\ de\ una\ mesa\ de\ cafe\ sin\ cristal\r\n\ \r\n\ @author\ Oscar\ Rico\ Martinez\ \r\n\ @version\ 25/05/2020\r\n
+comment1.params=idCliente\ alturaCm\ largoCm\ anchoCm\ cantidad
+comment1.target=MesaCafeMadera(int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MesaCafeMadera\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
